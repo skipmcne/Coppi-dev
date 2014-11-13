@@ -1,0 +1,6 @@
+$(document).ready(function() {
+	
+	// Form Validation
+	if ($('.validate').length > 0) {$('.validate').validate();}
+	
+});
